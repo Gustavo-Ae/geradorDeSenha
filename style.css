@@ -31,7 +31,6 @@ body{
 }
 
 .slider{
-    -webkit-appearance: none; /*Tira o preenchimento*/
     width: 100%;
     border-radius: 5px;
     background: #DFDFDF;
